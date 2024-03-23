@@ -15,22 +15,25 @@ Please feel free to send me [Pull Requests](https://github.com/brucechou1983/awe
 
 
 ## Open-Source
-WIP
+* [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The core technology that powers the Pythagora VSCode plugin.
+* [devika](https://github.com/stitionai/devika) - An open-source alternative to Devin.
+
 [Back to Top](#table-of-contents)
 
 
 ## Software
-WIP
+* [Devin](https://www.cognition-labs.com/introducing-devin) - The first AI software system that correctly resolves 13.86% of the issues end-to-end on [SWE-bench](https://swebench.com/). 
+
 [Back to Top](#table-of-contents)
 
 
 ## Tutorial
-WIP
+
 [Back to Top](#table-of-contents)
 
 
 ## Blog Post
-WIP
+
 [Back to Top](#table-of-contents)
 
 
